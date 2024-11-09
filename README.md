@@ -20,7 +20,8 @@
 ### Screen Shots of Mobile Application:
 ## 1. Loading Screen------->
 
-![WhatsApp Image 2024-11-03 at 22 38 24_80da2b9e](https://github.com/user-attachments/assets/93efa0e3-3090-4233-b06e-d159f8dfdbc0)
+<img src="![WhatsApp Image 2024-11-03 at 22 38 24_80da2b9e](https://github.com/user-attachments/assets/93efa0e3-3090-4233-b06e-d159f8dfdbc0)" alt="Description" width="500" height="300">
+
 
 ## 2. Landing Screen & Login Screen ------->
 
