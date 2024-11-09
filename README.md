@@ -20,44 +20,43 @@
 ### Screen Shots of Mobile Application:
 ## 1. Loading Screen------->
 
-<img src="https://github.com/user-attachments/assets/93efa0e3-3090-4233-b06e-d159f8dfdbc0" alt="WhatsApp Image" width="400" height="auto">
+<img src="https://github.com/user-attachments/assets/93efa0e3-3090-4233-b06e-d159f8dfdbc0" alt="WhatsApp Image" width="300" height="auto">
 
+## 2. Landing Screen & Login Screen
 
-## 2. Landing Screen & Login Screen ------->
+<img src="https://github.com/user-attachments/assets/940d9ea9-767e-4f21-b9de-08699e855bde" alt="Landing Screen & Login Screen" width="300" height="auto">
 
-![WhatsApp Image 2024-11-03 at 22 38 24_709f59d3](https://github.com/user-attachments/assets/940d9ea9-767e-4f21-b9de-08699e855bde)
+## 3. Home Screen
 
-## 3. Home Screen ------------>
+<img src="https://github.com/user-attachments/assets/0f1c73e9-a514-4c31-8765-9abc086da20a" alt="Home Screen" width="300" height="auto">
 
-![WhatsApp Image 2024-11-03 at 22 38 24_1d1aafbe](https://github.com/user-attachments/assets/0f1c73e9-a514-4c31-8765-9abc086da20a)
+## 4. Camera Permission for Profile Edit Screen
 
-## 4. Camera Permission for Profile Edit Screen-------------->
+<img src="https://github.com/user-attachments/assets/fc3107a5-5a4a-4e24-8a56-1c78a94a8a64" alt="Camera Permission for Profile Edit Screen" width="300" height="auto">
 
-![WhatsApp Image 2024-11-03 at 22 38 24_90d2ffe6](https://github.com/user-attachments/assets/fc3107a5-5a4a-4e24-8a56-1c78a94a8a64)
+## 5. Emergency Contact Screen
 
-## 5. Emergency Contact Screen ----------->
+<img src="https://github.com/user-attachments/assets/6f126737-e168-4803-bb9f-06d891a16d3e" alt="Emergency Contact Screen" width="300" height="auto">
 
-![WhatsApp Image 2024-11-03 at 22 38 24_a1d3f7f7](https://github.com/user-attachments/assets/6f126737-e168-4803-bb9f-06d891a16d3e)
+## 6. Permissions for Camera Recording
 
-## 6. Permissions for Camera Recording ---------->
+<img src="https://github.com/user-attachments/assets/eca411ca-bc65-40ec-b1f5-31404043629a" alt="Permissions for Camera Recording" width="300" height="auto">
 
-![WhatsApp Image 2024-11-03 at 22 38 24_1255e6db](https://github.com/user-attachments/assets/eca411ca-bc65-40ec-b1f5-31404043629a)
+## 7. Audio Permissions for Recording and Reporting
 
-## 7. Audio Permissions for Recording  and reporting ----------->
+<img src="https://github.com/user-attachments/assets/b72b701e-c769-4292-ab27-fc958970e9ca" alt="Audio Permissions for Recording and Reporting" width="300" height="auto">
 
-![WhatsApp Image 2024-11-03 at 22 38 24_72a0e038](https://github.com/user-attachments/assets/b72b701e-c769-4292-ab27-fc958970e9ca)
+## 8. Location Permission
 
-## 8. Location Permission ------------->
+<img src="https://github.com/user-attachments/assets/433abcac-5d13-4967-bbd1-56ba865e3975" alt="Location Permission" width="300" height="auto">
 
-![WhatsApp Image 2024-11-03 at 22 38 24_00fd0fab](https://github.com/user-attachments/assets/433abcac-5d13-4967-bbd1-56ba865e3975)
+## 9. Settings Screen
 
-## 9. Settings Screen ------------->
+<img src="https://github.com/user-attachments/assets/1786d2c1-b2b6-4c53-b086-b45de237e939" alt="Settings Screen" width="300" height="auto">
 
-![WhatsApp Image 2024-11-03 at 22 38 24_f29861ef](https://github.com/user-attachments/assets/1786d2c1-b2b6-4c53-b086-b45de237e939)
+## 10.  Terms & Conditions with Privacy Policy
 
-## Terms & Conditions with Privacy Policy---------->
-
-![WhatsApp Image 2024-11-03 at 22 38 24_e10fca73](https://github.com/user-attachments/assets/1f358f66-e528-4beb-a85c-7b525d64ab07)
+<img src="https://github.com/user-attachments/assets/1f358f66-e528-4beb-a85c-7b525d64ab07" alt="Terms & Conditions with Privacy Policy" width="300" height="auto">
 
 
 ### Now Let know more about Secure-X App Which will help you from crimes & also help in reporting it.
